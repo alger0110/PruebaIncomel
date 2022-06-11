@@ -1,0 +1,10 @@
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Emanuel Garcia\Desktop\Prueba Incomel\IncomelBackend\Data\obj\Debug\netcoreapp3.1\Data.pdb

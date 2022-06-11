@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sd8RdlEraKj167cBrF2KBRFAKCCQDzi93Ox/sogCKZY5fsfvjvUlxC67zKTG9kTTEkzX6yVmoM/hS58jeUVNCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emanuel Garcia\\Desktop\\Prueba Incomel\\IncomelBackend\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emanuel Garcia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
